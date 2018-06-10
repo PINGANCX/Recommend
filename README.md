@@ -1,0 +1,2 @@
+# Recommend
+用协同过滤算法实现用户推荐功能，基于VMware搭建的虚拟机群，使用Hadoop和mapreduce
